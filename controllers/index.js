@@ -1,0 +1,3 @@
+// вытащи все из файла и импортируй в переменную as ...
+export * as UserController from './UserController.js';
+export * as PostController from './PostController.js';
